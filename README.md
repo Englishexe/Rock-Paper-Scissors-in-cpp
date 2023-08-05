@@ -16,6 +16,6 @@
 <p align="left">1. Have a player x player mode <br>2. Add a sound effect on player win<br>3. loop gameplay</p>
 <h3 align="left"><u>Developer Docs</u></h3>
 <h4>For forking & bug fixing - Incomplete</h4>
-<p align="left"><u>Functions</u><br>std::string playerChoice() - Gathers the players choice and returns it back as a string (rock/paper/scissors)<br>std::string computerchoice - Generates a random computer choice and returns it back as a string (rock/paper/scissors)<br><u>Variables:</u><br>main:<br>player - Holds a string value on the option the player picked<br>computer - Holds a string value on the option the computer generates.<br>winner - holds a string value on the winner (player/computer)</p>
+<p align="left"><u>Functions</u><br>std::string playerChoice() - Gathers the players choice and returns it back as a string (rock/paper/scissors)<br>std::string computerchoice() - Generates a random computer choice and returns it back as a string (rock/paper/scissors)<br><u>Variables:</u><br>main:<br>player - Holds a string value on the option the player picked<br>computer - Holds a string value on the option the computer generates.<br>winner - holds a string value on the winner (player/computer)</p>
 
 <p align="center"><b>04/08/23 - V1 - Development</b></p>
